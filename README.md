@@ -1,2 +1,2 @@
 # remotelock
-Remote lock in-memory. TOD: add TTL and redis lock
+Remote lock in-memory. TODO: add TTL and redis lock
